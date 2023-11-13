@@ -8,6 +8,7 @@ from scipy.stats import chi2_contingency
 
 st.title('Proyecto 1')
 st.text("Herramienta de exploración y análisis de datos.")
+st.text("Grupo 7: Marvin Chávez 08105031, Maycol Córdova 22007865 y David Rivera 22000785.")
 
 #Tipo de columna
 def classify_columns(df):
