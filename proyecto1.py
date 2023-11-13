@@ -1,3 +1,11 @@
+#### Maestría en Inteligencia de Negocios y Análisis de Datos
+#### Cuarto Trimestre, 2023
+#### Proyecto 1 - 
+#### Marvin Chávez 08105031
+#### Maycol Córdova 22007865
+#### David Rivera 22000785
+#### El proyecto fue cargado a https://appuctdevelopment-proyecto1.streamlit.app/
+
 import streamlit as st
 import pandas as pd
 import seaborn as sns
